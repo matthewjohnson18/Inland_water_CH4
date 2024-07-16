@@ -5,7 +5,7 @@ File location: https://github.com/matthewjohnson18/Inland_water_CH4/
 =========================================================================
 Describes details of how to run the scripts which produced the results for the manuscript "Future methane emission from lakes and reservoirs"
 Written: July 15, 2024
-Written by Matthew Johnson
+Written by Matthew Johnson and David Bastviken
 matthew.s.johnson@nasa.gov
 =========================================================================
 
@@ -13,7 +13,8 @@ All scripts were written and run in MATLAB 2019b.
 All gridded input and output at 0.25 x 0.25 degrees (720 lat, 1440 lon)
 This README provides details for the input/output for scripts run to produce baseline and an example future climate scenario (SSP5, 2080-2099) global gridded lake CH4 emissions
 
-For those reviewers that do not have access to MATLAB, we have also uploaded excel files with results from the scripts to help review the codes:
+Example output:
+For those that do not have access to MATLAB, we have also uploaded excel files with results from the scripts:
 Baseline_Annual_Lake_Methane_Emissions_D+E.xlsx: annual baseline diffusion+ebullition gridded lake CH4 emission totals. Variables include:
 - Lake type 1 (thermokarst) CH4 emissions (g m-2 yr-1)
 - Lake type 2 (glacial/postglacial) CH4 emissions (g m-2 yr-1)
