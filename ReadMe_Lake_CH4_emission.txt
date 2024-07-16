@@ -6,7 +6,7 @@ File location: https://github.com/matthewjohnson18/Inland_water_CH4/
 Describes details of how to run the scripts which produced the results for the manuscript "Future methane emission from lakes and reservoirs"
 Written: July 15, 2024
 Written by Matthew Johnson and David Bastviken
-matthew.s.johnson@nasa.gov
+Email for questions: matthew.s.johnson@nasa.gov
 =========================================================================
 
 All scripts were written and run in MATLAB 2019b.
