@@ -80,9 +80,9 @@ Important output variables:
 Daily lake type gridded daily diffusion+ebullition emissions (g m-2 day-1), 365 days, 720 lat, 1440 lon: 
 - CH4_emiss_Lake_Type1_g_m2_day (Thermokarst)
 - CH4_emiss_Lake_Type2_g_m2_day (Glacial/postglacial)
-- CH4_emiss_Lake_Type3_g_m2_day (Thermokarst)
+- CH4_emiss_Lake_Type3_g_m2_day (Organic)
 - CH4_emiss_Lake_Type4_g_m2_day (Peat pond)
-- CH4_emiss_Lake_Type5_g_m2_day (Organic)
+- CH4_emiss_Lake_Type5_g_m2_day (Other boreal)
 - CH4_emiss_Lake_Type6_g_m2_day (Temperate)
 - CH4_emiss_Lake_Type7_g_m2_day (Tropical)
 
@@ -120,9 +120,9 @@ Important output variables:
 Daily lake type gridded daily fall lake turnover emissions (g m-2 day-1), 365 days, 720 lat, 1440 lon: 
 - CH4_emiss_Lake_Type1_g_m2_day (Thermokarst)
 - CH4_emiss_Lake_Type2_g_m2_day (Glacial/postglacial)
-- CH4_emiss_Lake_Type3_g_m2_day (Thermokarst)
+- CH4_emiss_Lake_Type3_g_m2_day (Organic)
 - CH4_emiss_Lake_Type4_g_m2_day (Peat pond)
-- CH4_emiss_Lake_Type5_g_m2_day (Organic)
+- CH4_emiss_Lake_Type5_g_m2_day (Other boreal)
 - CH4_emiss_Lake_Type6_g_m2_day (Temperate)
 - CH4_emiss_Lake_Type7_g_m2_day (Tropical)
 
@@ -160,9 +160,9 @@ Important output variables:
 Daily lake type gridded daily spring thaw and lake turnover emissions (g m-2 day-1), 365 days, 720 lat, 1440 lon: 
 - CH4_emiss_Lake_Type1_g_m2_day (Thermokarst)
 - CH4_emiss_Lake_Type2_g_m2_day (Glacial/postglacial)
-- CH4_emiss_Lake_Type3_g_m2_day (Thermokarst)
+- CH4_emiss_Lake_Type3_g_m2_day (Organic)
 - CH4_emiss_Lake_Type4_g_m2_day (Peat pond)
-- CH4_emiss_Lake_Type5_g_m2_day (Organic)
+- CH4_emiss_Lake_Type5_g_m2_day (Other boreal)
 - CH4_emiss_Lake_Type6_g_m2_day (Temperate)
 - CH4_emiss_Lake_Type7_g_m2_day (Tropical)
 
@@ -195,9 +195,9 @@ Important output variables:
 Daily lake type gridded daily diffusion+ebullition emissions for the SSP5 climate scenario between 2080-2099 (g m-2 day-1), 365 days, 720 lat, 1440 lon: 
 - CH4_emiss_Lake_Type1_g_m2_day (Thermokarst)
 - CH4_emiss_Lake_Type2_g_m2_day (Glacial/postglacial)
-- CH4_emiss_Lake_Type3_g_m2_day (Thermokarst)
+- CH4_emiss_Lake_Type3_g_m2_day (Organic)
 - CH4_emiss_Lake_Type4_g_m2_day (Peat pond)
-- CH4_emiss_Lake_Type5_g_m2_day (Organic)
+- CH4_emiss_Lake_Type5_g_m2_day (Other boreal)
 - CH4_emiss_Lake_Type6_g_m2_day (Temperate)
 - CH4_emiss_Lake_Type7_g_m2_day (Tropical)
 
@@ -230,9 +230,9 @@ Important output variables:
 Daily lake type gridded daily fall lake turnover for the SSP5 climate scenario between 2080-2099 (g m-2 day-1), 365 days, 720 lat, 1440 lon: 
 - CH4_emiss_Lake_Type1_g_m2_day (Thermokarst)
 - CH4_emiss_Lake_Type2_g_m2_day (Glacial/postglacial)
-- CH4_emiss_Lake_Type3_g_m2_day (Thermokarst)
+- CH4_emiss_Lake_Type3_g_m2_day (Organic)
 - CH4_emiss_Lake_Type4_g_m2_day (Peat pond)
-- CH4_emiss_Lake_Type5_g_m2_day (Organic)
+- CH4_emiss_Lake_Type5_g_m2_day (Other boreal)
 - CH4_emiss_Lake_Type6_g_m2_day (Temperate)
 - CH4_emiss_Lake_Type7_g_m2_day (Tropical)
 
@@ -266,9 +266,9 @@ Important output variables:
 Daily lake type gridded daily spring thaw and lake turnover emissions for the SSP5 climate scenario between 2080-2099 (g m-2 day-1), 365 days, 720 lat, 1440 lon: 
 - CH4_emiss_Lake_Type1_g_m2_day (Thermokarst)
 - CH4_emiss_Lake_Type2_g_m2_day (Glacial/postglacial)
-- CH4_emiss_Lake_Type3_g_m2_day (Thermokarst)
+- CH4_emiss_Lake_Type3_g_m2_day (Organic)
 - CH4_emiss_Lake_Type4_g_m2_day (Peat pond)
-- CH4_emiss_Lake_Type5_g_m2_day (Organic)
+- CH4_emiss_Lake_Type5_g_m2_day (Other boreal)
 - CH4_emiss_Lake_Type6_g_m2_day (Temperate)
 - CH4_emiss_Lake_Type7_g_m2_day (Tropical)
 
