@@ -13,6 +13,8 @@ All scripts were written and run in MATLAB 2019b.
 All gridded input and output at 0.25 x 0.25 degrees (720 lat, 1440 lon)
 This README provides details for the input/output for scripts run to produce baseline and an example future climate scenario (SSP5, 2080-2099) global gridded lake CH4 emissions
 
+Raw lake CH4 flux data set (Supp_Info S01 - Lake Flux Data Set.xlsx) provided.
+
 Example output:
 For those that do not have access to MATLAB, we have also uploaded excel files with results from the scripts:
 Baseline_Annual_Lake_Methane_Emissions_D+E.xlsx: annual baseline diffusion+ebullition gridded lake CH4 emission totals. Variables include:
